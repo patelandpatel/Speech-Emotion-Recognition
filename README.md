@@ -1,9 +1,3 @@
-I see you've uploaded a file named **speech-emotion-recognition.ipynb**. I'll create a README file based on the structure of the project in your notebook. Let me review the file and provide the README.
-
-Based on the extracted content from your Jupyter Notebook, I’ll create a detailed **README.md** file for your repository:
-
----
-
 # Speech Emotion Recognition (SER)
 
 This repository contains a project on **Speech Emotion Recognition (SER)**, which uses deep learning techniques to identify human emotions based on speech signals. The goal is to classify speech into various emotional states such as happiness, sadness, anger, and more, using datasets like CREMA-D, RAVDESS, SAVEE, and TESS.
@@ -108,7 +102,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to modify or add anything!
